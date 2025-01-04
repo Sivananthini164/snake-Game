@@ -12,6 +12,7 @@ Keyboard controls for smooth direction changes.
 📂 Project Structure
 
 Snake-Game/
+
 ├── index.html      # Main HTML structure
 
 ├── style.css       # Game styling
