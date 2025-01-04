@@ -13,8 +13,11 @@ Keyboard controls for smooth direction changes.
 
 Snake-Game/
 ├── index.html      # Main HTML structure
+
 ├── style.css       # Game styling
+
 ├── script.js       # Game logic and functionality
+
 └── README.md       # Project documentation
 
 🎮 How to Play
